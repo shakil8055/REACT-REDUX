@@ -1,5 +1,12 @@
-# React + Vite
+# CART-ITEMS-REDUX
 
+This project was done using React JS
+
+Requirements for the task,
+
+=>It needs to increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
+
+OUTPUT:https://sha-redux-cart.netlify.app
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
